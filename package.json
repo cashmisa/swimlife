@@ -11,6 +11,9 @@
         "theme",
         "template"
     ],
+    "scripts": {
+        "build": "webpack --mode production"
+    },
     "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
@@ -35,11 +38,14 @@
     },
     "devDependencies": {
         "browser-sync": "2.23.6",
+        "css-loader": "^0.28.11",
         "gulp": "^3.9.1",
         "gulp-clean-css": "3.9.2",
         "gulp-header": "2.0.1",
         "gulp-rename": "^1.2.2",
         "gulp-sass": "^3.1.0",
-        "gulp-uglify": "3.0.0"
+        "gulp-uglify": "3.0.0",
+        "style-loader": "^0.21.0",
+        "webpack": "^4.6.0"
     }
 }
