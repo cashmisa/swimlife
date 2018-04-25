@@ -20,10 +20,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="219" column="68" lean-forward="true" selection-start-line="219" selection-start-column="68" selection-end-line="219" selection-end-column="68" />
+            <state relative-caret-position="252">
+              <caret line="275" column="71" selection-start-line="275" selection-start-column="71" selection-end-line="275" selection-end-column="71" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -35,11 +36,11 @@
     <findStrings>
       <find>background:</find>
       <find>img</find>
-      <find />
+      <find>learn more</find>
       <find>registration</find>
       <find>event</find>
       <find>script</find>
-      <find />
+      <find>team re</find>
       <find>-5</find>
       <find>mb-5</find>
     </findStrings>
@@ -154,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="commi&#9;ACTION&#9;CheckinProject&#10;comm&#9;ACTION&#9;CheckinProject&#10;commit&#9;ACTION&#9;CheckinProject&#10;term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;terminal&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="SearchEverywhereHistoryKey" value="commit&#9;ACTION&#9;CheckinProject&#10;commi&#9;ACTION&#9;CheckinProject&#10;comm&#9;ACTION&#9;CheckinProject&#10;term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;terminal&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -207,7 +208,7 @@
       <workItem from="1524562069895" duration="3390000" />
       <workItem from="1524626255381" duration="8396000" />
       <workItem from="1524642506044" duration="1441000" />
-      <workItem from="1524644076750" duration="3258000" />
+      <workItem from="1524644076750" duration="4498000" />
     </task>
     <task id="LOCAL-00001" summary="updated whatsapp number">
       <created>1524646738086</created>
@@ -216,11 +217,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524646738087</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix bug">
+      <created>1524647363006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524647363006</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16485000" />
+    <option name="totallyTimeSpent" value="17725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="800" height="860" extended-state="0" />
@@ -229,7 +237,7 @@
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.2372449" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -374,10 +382,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="219" column="68" lean-forward="true" selection-start-line="219" selection-start-column="68" selection-end-line="219" selection-end-column="68" />
+        <state relative-caret-position="252">
+          <caret line="275" column="71" selection-start-line="275" selection-start-column="71" selection-end-line="275" selection-end-column="71" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
